@@ -3,6 +3,7 @@ run the command
 ```shell
 ./build.sh
 ```
+or download the release from [v0.1](https://github.com/1337Cheats/PasswordGenerator/releases/tag/initial)
 
 # How to run
 ```
